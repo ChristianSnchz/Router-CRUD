@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "250",
+      "nombrePlatillo": "brownies ",
+      "categoria": "postre",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "ensalada cesar",
+      "precioPlatillo": "450",
+      "categoria": "ensalada",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "Arroz con leche",
+      "precioPlatillo": "1451",
+      "categoria": "postre",
+      "id": 7
+    },
+    {
+      "nombrePlatillo": "Arepa",
+      "precioPlatillo": "1500",
+      "categoria": "postre",
+      "id": 8
+    }
+  ]
+}
